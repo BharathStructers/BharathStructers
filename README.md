@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BharathStructers
+- 👋 Hi, I’m @Bharath Shanmugam
 
 
 <!---
