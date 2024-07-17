@@ -6,7 +6,7 @@
 
 - LinkedIN [https://www.linkedin.com/in/bharath-shanmugam-337191222/](https://www.linkedin.com/in/bharath-shanmugam-337191222/)
 
-- Personal Blog [bharathshanmugam.github.io](bharathshanmugam.github.io)
+- Personal Blog ([bharathshanmugam.github.io](https://bharathshanmugam.github.io/))
 
 - 📫 How to reach me **bharathshanmugam12@gmail.com**
 
