@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring software engineer with hands-on experience in backend development and a solid foundation in technologies such as SQLModel, SQLAlchemy, FastAPI, PostgreSQL, Docker, and API integrations. Seeking to leverage my expertise in designing scalable systems, optimizing databases, and enhancing application functionalities in a challenging role at a forward-thinking organization. Committed to continuous learning, innovative problem solving, and contributing to the success of dynamic development teams.</h3>
 
 - 🔭 I’m currently working on **Customer Relationship Management system with WhatsApp API**
-- <img width="40" height="40" src="[https://img.icons8.com/dotty/80/sql.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="sql"/>
+- <img width="40" height="40" src="https://img.icons8.com/dotty/80/sql.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIN"/>
 
 - LinkedIN [https://www.linkedin.com/in/bharath-shanmugam-337191222/](https://www.linkedin.com/in/bharath-shanmugam-337191222/)
 
